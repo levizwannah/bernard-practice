@@ -4,6 +4,8 @@ let boy2 = new Boy("March 8, 1998");
 boy1.name = "James";
 boy1.age = 22;
 
+let age = 34;
+
 boy2.name = "Andrew";
 boy2.age = 24;
 
