@@ -21,3 +21,13 @@ girl.age = 20;
 
 girl.speak();
 girl.dance("Made by God");
+
+// .. students without classes
+let s1Name = "Levi";
+let s1Age = 10;
+let s1Grade = "A";
+
+let s1ParentName = "John";
+let s1ParentLocation = "Burg";
+
+// ...
